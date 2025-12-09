@@ -146,19 +146,19 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <span className="font-medium text-foreground">العنوان:</span>
-                <span>123 شارع التحرير، القاهرة، مصر</span>
+                <span> المنصورة شارع جيهان</span>
               </li>
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <span className="font-medium text-foreground">الهاتف:</span>
-                <span dir="ltr">+20 123 456 7890</span>
+                <span dir="ltr">01029359034</span>
               </li>
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <span className="font-medium text-foreground">البريد:</span>
-                <span>info@farissport.com</span>
+                <span>farismohamed1324@gmail.com</span>
               </li>
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <span className="font-medium text-foreground">واتساب:</span>
-                <span dir="ltr">+20 100 123 4567</span>
+                <span dir="ltr">01029359034</span>
               </li>
             </ul>
           </div>

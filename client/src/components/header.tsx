@@ -33,7 +33,7 @@ export function Header() {
             <span>شحن مجاني للطلبات أكثر من 500 ج.م</span>
           </div>
           <div className="flex items-center gap-4">
-            <span>خدمة العملاء: 01234567890</span>
+            <span>خدمة العملاء:01029359034 </span>
             <span>العملة: ج.م (EGP)</span>
           </div>
         </div>
